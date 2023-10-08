@@ -1,7 +1,7 @@
 # Data structures in Rust programming language
 
 Outline:\
-    1-> Essential concepts\ 
+    1-> Essential concepts\
     2-> setup\
     3-> intro ()\
     4-> recursion\
