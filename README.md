@@ -1,6 +1,6 @@
 # Data structures in Rust programming language
 
-Outline:
+Outline:\
     1-> Essential concepts\ 
     2-> setup\
     3-> intro ()\
