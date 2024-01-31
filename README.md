@@ -1,6 +1,14 @@
 # Data structures in Rust programming language
 
-Outline:\
+# Done
+    Hello World
+    Println! - with and without arguments
+
+# Ongoing
+
+
+
+# Todo:\
     1-> Essential concepts\
     2-> setup\
     3-> intro ()\
